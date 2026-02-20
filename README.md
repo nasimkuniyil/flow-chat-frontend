@@ -1,4 +1,4 @@
-# FLOW CHAT MESSENGER
+# FLOW CHAT - Frontend
 
 Flow Chat is a high-performance, real-time communication platform built with the MERN stack (Next.js, Node.js, Express, and MongoDB). It focuses on seamless user experience, instant messaging, and secure authentication.
 
